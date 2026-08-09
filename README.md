@@ -11,7 +11,7 @@ A fictional 5-person company with distinct departments (HR, IT, Finance, Marketi
 | Bob Mitchel | HR Manager | HR |
 | Mark Chen | IT Support Specialist | IT |
 | Laura Novak | Finance Analyst | Finance |
-| Alicia Carter | Marketing Coordinator → Marketing Manager | Marketing |
+| Alica Carter | Marketing Coordinator → Marketing Manager | Marketing |
 | Patric Sjoberg | General Employee | Operations |
 
 **Groups:** `IT-Admins`, `Finance-Team`, `All-Employees`
