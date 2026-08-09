@@ -44,5 +44,17 @@ This reflects a real audit distinction: **a control being configured is not the 
 ## Tools Used
 Microsoft Entra ID, Azure Portal, Entra Admin Center
 
+## Detailed Steps & Screenshots
+
+Full step-by-step documentation with screenshots for each stage:
+
+- `00 - Summary.md`
+- `02 - Users Created.md`
+- `03 - Groups Created.md`
+- `04 - RBAC - Mark Chen.md`
+- `05 - RBAC - Laura & Bob.md`
+- `06 - MFA Verification.md`
+- `07 - JML Lifecycle.md`
+
 ## Author
 Bugra Ayten
