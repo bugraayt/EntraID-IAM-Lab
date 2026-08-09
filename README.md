@@ -26,12 +26,12 @@ Roles were assigned based on actual job function, not department or seniority:
 | Bob Mitchel | User Administrator | Manages employee accounts for HR |
 | Mark Chen | Helpdesk Administrator | IT support-level tasks only, not Global Admin |
 | Laura Novak | Reports Reader | Read-only visibility for Finance |
-| Alicia Carter | None → Finance-Team member | No admin need; gained cross-functional access after promotion |
+| Alica Carter | None → Finance-Team member | No admin need; gained cross-functional access after promotion |
 | Patric Sjoberg | None (standard user) | No admin need |
 
 ### 2. Joiner-Mover-Leaver (JML) Lifecycle
 - **Joiner** — Created 5 users with role-appropriate job titles, departments, and least-privilege RBAC roles.
-- **Mover** — Promoted Alicia Carter from Marketing Coordinator to Marketing Manager, added her to the Finance-Team group to reflect new cross-functional access needs, and reviewed her existing permissions.
+- **Mover** — Promoted Alica Carter from Marketing Coordinator to Marketing Manager, added her to the Finance-Team group to reflect new cross-functional access needs, and reviewed her existing permissions.
 - **Leaver** — Offboarded Mark Chen: removed group memberships and role assignments, revoked active sessions, and disabled his account.
 
 ### 3. Control-Effectiveness Testing
