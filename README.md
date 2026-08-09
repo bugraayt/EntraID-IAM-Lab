@@ -46,13 +46,14 @@ Microsoft Entra ID, Azure Portal, Entra Admin Center
 
 ## Detailed Steps & Screenshots
 Full step-by-step documentation with screenshots for each stage:
-- [`00 - Summary.md`](./00%20-%20Summary.md)
-- [`02 - Users Created.md`](./02%20-%20Users%20Created.md)
-- [`03 - Groups Created.md`](./03%20-%20Groups%20Created.md)
-- [`04 - RBAC - Mark Chen.md`](./04%20-%20RBAC%20-%20Mark%20Chen.md)
-- [`05 - RBAC - Laura & Bob.md`](./05%20-%20RBAC%20-%20Laura%20%26%20Bob.md)
-- [`06 - MFA Verification.md`](./06%20-%20MFA%20Verification.md)
-- [`07 - JML Lifecycle.md`](./07%20-%20JML%20Lifecycle.md)
+- [00 Summary](./00Summary.md)
+- [01 Tenant Setup](./01Tenant%20Setup.md)
+- [02 Users Created](./02Users%20Created.md)
+- [03 Groups Created](./03Groups%20Created.md)
+- [04 RBAC - Mark (Helpdesk Admin)](./04RBAC%20-%20Mark%20(Helpdesk%20Admin).md)
+- [05 RBAC - Laura & Bob](./05RBAC%20-%20Laura%20%26%20Bob.md)
+- [06 MFA Verification](./06MFA%20Verification.md)
+- [07 JML Lifecycle](./07JML%20Lifecycle.md)
 
 ## Author
 Bugra Ayten
