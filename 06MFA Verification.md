@@ -3,23 +3,23 @@ Enabled Security Defaults and tested sign-in as Mark Chen. Initial sign-in logs 
 ## Screenshots
 
 Succesfully logged in without MFA
-![screenshot](./images/Pasted image 20260809093121.png)
+![screenshot](./images/Pasted%20image%2020260809093121.png)
 
 Logs
 1
-![screenshot](./images/Pasted image 20260809090219.png)
+![screenshot](./images/Pasted%20image%2020260809090219.png)
 2
-![screenshot](./images/Pasted image 20260809090235.png)
+![screenshot](./images/Pasted%20image%2020260809090235.png)
 3
-![screenshot](./images/Pasted image 20260809090438.png)
+![screenshot](./images/Pasted%20image%2020260809090438.png)
 
 I enabled per-user MFA to enforce.
-![screenshot](./images/Pasted image 20260809091131.png)
+![screenshot](./images/Pasted%20image%2020260809091131.png)
 
-![screenshot](./images/Pasted image 20260809091239.png)
+![screenshot](./images/Pasted%20image%2020260809091239.png)
 
 Sign-in attempt after enforcing MFA 
-![screenshot](./images/Pasted image 20260809091459.png)
+![screenshot](./images/Pasted%20image%2020260809091459.png)
 
 ## Why it matters
 Log showed "Single-factor authentication" — MFA wasn't yet enforced due to the 14-day grace period. Shows the difference between a control being "on" vs. actually "enforced"

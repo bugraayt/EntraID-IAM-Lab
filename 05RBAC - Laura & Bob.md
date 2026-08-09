@@ -4,10 +4,10 @@ Assigned role-appropriate permissions to each user based on actual job function:
 ## Screenshots
 
 Laura
-![screenshot](./images/Pasted image 20260809083416.png)
+![screenshot](./images/Pasted%20image%2020260809083416.png)
 
 Bob
-![screenshot](./images/Pasted image 20260809083721.png)
+![screenshot](./images/Pasted%20image%2020260809083721.png)
 
 ## Why it matters
 Each role was chosen based on the minimum permissions required for that person's actual job — not their department or seniority. This reflects a core audit principle: access should map to job function, and unnecessary elevated permissions (even well-intentioned ones) represent unmanaged risk that auditors specifically look for during access reviews.

@@ -7,31 +7,31 @@ Simulated the full Joiner-Mover-Leaver (JML) identity lifecycle in Microsoft Ent
 ## Screenshots
 **Joiner- User Creation**
 1. Created 5 users and assigned them
-![screenshot](./images/Pasted image 20260809081858.png)
+![screenshot](./images/Pasted%20image%2020260809081858.png)
 
 **Mover- Alica Carter from Marketing Coordinator to Marketing Manager**
 
 1. Changed her job title
- ![screenshot](./images/Pasted image 20260809092823.png)
+ ![screenshot](./images/Pasted%20image%2020260809092823.png)
 Coordinator to Manager
-![screenshot](./images/Pasted image 20260809092858.png)
+![screenshot](./images/Pasted%20image%2020260809092858.png)
 
 2. Assigned her to Finance Team security group
-![screenshot](./images/Pasted image 20260809094011.png)
+![screenshot](./images/Pasted%20image%2020260809094011.png)
 
 **Leaver- Offboarded Mark Chen**
 1. Removed his group memberships and role assignments
-![screenshot](./images/Pasted image 20260809094947.png)
+![screenshot](./images/Pasted%20image%2020260809094947.png)
 
-![screenshot](./images/Pasted image 20260809095014.png)
+![screenshot](./images/Pasted%20image%2020260809095014.png)
 
 2. Disabled his account
-![screenshot](./images/Pasted image 20260809094811.png)
+![screenshot](./images/Pasted%20image%2020260809094811.png)
 
-![screenshot](./images/Pasted image 20260809094905.png)
+![screenshot](./images/Pasted%20image%2020260809094905.png)
 
 3. Revoked all his sessions
-![screenshot](./images/Pasted image 20260809094725.png)
+![screenshot](./images/Pasted%20image%2020260809094725.png)
 
 ## Why it matters
 JML is a core IAM lifecycle model used to manage access as employees join, change roles, and leave an organization. Properly executing the Leaver stage — removing all access, not just disabling login — is critical: incomplete offboarding is one of the most common findings in real access audits, since leftover permissions on inactive accounts represent significant security risk.
